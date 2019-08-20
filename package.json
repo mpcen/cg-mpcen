@@ -1,0 +1,17 @@
+{
+  "name": "cg-mpcen",
+  "private": false,
+  "version": "0.0.0",
+  "description": "A Simple repo for CG testing/bug-bashing purposes",
+  "main": "server.js",
+  "author": {
+    "name": "Manny Martinez",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "growl": "^1.9.2"
+  }
+}
